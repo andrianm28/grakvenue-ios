@@ -1,0 +1,184 @@
+[
+    {
+        "id": "1",
+        "name": "Lampung Walk",
+        "address": "Jl Urip Sumoharjo No. 61, Way Halim Permai, Bandar Lampung, Lampung 35133",
+        "description": "Sport Center",
+        "phone": "07215613646",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.3905699,
+            "latitude": 105.2742922
+        },
+        "imageName": "lampungwalk"
+    },
+    {
+        "id": "2",
+        "name": "The Dome Sport Arena",
+        "address": "Jl Pulau Morotai No 53, Jagabaya III, Sukabumi, Bandar Lampung, Lampung 35122",
+        "description": "Lapangan Futsal",
+        "phone": "081236008185",
+        "price": "150000",
+        "coordinates": {
+            "longitude": -5.3995949,
+            "latitude": 105.2757149
+        },
+        "imageName": "thedomesportarena"
+    },
+    {
+        "id": "3",
+        "name": "Alsha Futsal",
+        "address": "Jl. Palapa 9 No.2, Gn. Terang, Langkapura, Bandar Lampung, Lampung 35148",
+        "description": "Lapangan Futsal",
+        "phone": "0811729348",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.3825318,
+            "latitude": 105.244176
+        },
+        "imageName": "alshafutsal"
+    },
+    {
+        "id": "4",
+        "name": "Azka Futsal",
+        "address": "Jl. Purnawirawan 1, Langkapura, Bandar Lampung, Lampung 35151",
+        "description": "Lapangan Futsal",
+        "phone": "081279616160",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.3873077,
+            "latitude": 105.2206651
+        },
+        "imageName": "azkafutsal"
+    },
+    {
+        "id": "5",
+        "name": "Garuda Futsal",
+        "address": "Jl. Karya Muda 1, Sumur Putri, Teluk Betung Utara, Bandar Lampung, Lampung 35211",
+        "description": "Lapangan Futsal",
+        "phone": "082180154665",
+        "price": "120000",
+        "coordinates": {
+            "longitude": -5.4312596,
+            "latitude": 105.2434407
+        },
+        "imageName": "garudafutsal"
+    },
+    {
+        "id": "6",
+        "name": "Golde Boy Futsal",
+        "address": "Jl. Yos Sudarso No. 109, Sukaraja, Teluk Betung Selatan, Bandar Lampung",
+        "description": "Lapangan Futsal",
+        "phone": "0721472158",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.4433182,
+            "latitude": 105.2850406
+        },
+        "imageName": "goldenboyfutsal"
+    },
+    {
+        "id": "7",
+        "name": "Harmoni Futsal",
+        "address": "Jl. Ulangan No. 8, Segala Minde, Tanjung Karang Barat, Bandar Lampung, Lampung 35111",
+        "description": "Lapangan Futsal",
+        "phone": "081279005713",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.3910502,
+            "latitude": 105.2405654
+        },
+        "imageName": "harmonifutsal"
+    },
+    {
+        "id": "8",
+        "name": "Intan Futsal",
+        "address": "Jl. Penengahan, Tanjung Karang Pusat, Bandar Lampung, Lampung 35125",
+        "description": "Lapangan Futsal",
+        "phone": "085768108668",
+        "price": "95000",
+        "coordinates": {
+            "longitude": -5.3910234,
+            "latitude": 105.2339993
+        },
+        "imageName": "intanfutsal"
+    },
+    {
+        "id": "9",
+        "name": "Interganda Futsal Arena",
+        "address": "Jl. Darussalam No. 82, Susunan Baru, Tanjung Karang, Bandar Lampung, Lampung 35111",
+        "description": "Lapangan Futsal",
+        "phone": "081271398385",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.4036551,
+            "latitude": 105.2272932
+        },
+        "imageName": "intergandafutsalarena"
+    },
+    {
+        "id": "10",
+        "name": "Lacentro Futsal",
+        "address": "Jl. Mawar No. 28, Rawa Laut, Engal, Bandar Lampung, Lampung 35213",
+        "description": "Lapangan Futsal",
+        "phone": "0721255861",
+        "price": "125000",
+        "coordinates": {
+            "longitude": -5.4231991,
+            "latitude": 105.2614192
+        },
+        "imageName": "lacentrofutsal"
+    },
+    {
+        "id": "11",
+        "name": "Lampung Futsal",
+        "address": "Jl. Abdul Muis, Gedong Meneng, Rajabasa, Bandar Lampung, Lampung 35145",
+        "description": "Lapangan Futsal",
+        "phone": "08228260342",
+        "price": "110000",
+        "coordinates": {
+            "longitude": -5.4231884,
+            "latitude": 105.2614192
+        },
+        "imageName": "lampungfutsal"
+    },
+    {
+        "id": "12",
+        "name": "Kartika Futsal",
+        "address": "Jl. Gg. Walet, Bakung, Teluk Betung Barat, Bandar Lampung, Lampung 35223",
+        "description": "Lapangan Futsal",
+        "phone": "07218018037",
+        "price": "100000",
+        "coordinates": {
+            "longitude": -5.4506087,
+            "latitude": 105.2485553
+        },
+        "imageName": "kartikafutsal"
+    },
+    {
+        "id": "13",
+        "name": "Raya Futsal",
+        "address": "Jl. Ratu Dibalau, Tanjung Seneng, Bandar Lampung, Lampung 35135",
+        "description": "Lapangan Futsal",
+        "phone": "085366248152",
+        "price": "110000",
+        "coordinates": {
+            "longitude": -5.3665377,
+            "latitude": 105.2720673
+        },
+        "imageName": "rayafutsal"
+    },
+    {
+        "id": "14",
+        "name": "Srikandi Futsal",
+        "address": "Jl. Sumarjo, Labuhan Ratu, Kedaton, Bandar Lampung, Lampung 35132",
+        "description": "Lapangan Futsal",
+        "phone": "08978954813",
+        "price": "900000",
+        "coordinates": {
+            "longitude": -5.3766295,
+            "latitude": 105.2537589
+        },
+        "imageName": "srikandifutsal"
+    }
+]
